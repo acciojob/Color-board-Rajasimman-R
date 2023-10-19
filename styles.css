@@ -11,7 +11,7 @@
 	transition:background-color 1s ease;
 	 margin:1px;
 
-	background-color:aliceblue;
+	background-color:rgb(29, 29, 29);
 }
 .square:hover{
 	background-color:red;
